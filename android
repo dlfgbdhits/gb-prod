@@ -12,7 +12,7 @@
       },     
        {
          "id":2,
-         "domain":"https://h5.gbapp3.com",
+         "domain":"https://api.gbty2893.com",
          "webDomain":"https://h5.gbapp3.com",
          "status":1,
          "domainType":null,
@@ -20,7 +20,7 @@
       },     
        {
          "id":3,
-         "domain":"https://h5.gbapp5.com",
+         "domain":"https://api.gbty2893.com",
          "webDomain":"https://h5.gbapp5.com",
          "status":1,
          "domainType":null,
@@ -28,7 +28,7 @@
       },     
       {
          "id":4,
-         "domain":"https://h5.gbapp6.com",
+         "domain":"https://api.gbty2893.com",
          "webDomain":"https://h5.gbapp6.com",
          "status":1,
          "domainType":null,
@@ -36,7 +36,7 @@
       },
       {
          "id":5,
-         "domain":"https://h5.gbapp7.com",
+         "domain":"https://api.gbty2893.com",
          "webDomain":"https://h5.gbapp7.com",
          "status":1,
          "domainType":null,
@@ -44,7 +44,7 @@
       },
       {
          "id":6,
-         "domain":"https://h5.gbapp8.com",
+         "domain":"https://api.gbty2893.com",
          "webDomain":"https://h5.gbapp8.com",
          "status":1,
          "domainType":null,
@@ -52,7 +52,7 @@
       },
       {
          "id":7,
-         "domain":"https://h5.gbapp9.com",
+         "domain":"https://api.gbty2893.com",
          "webDomain":"https://h5.gbapp9.com",
          "status":1,
          "domainType":null,
